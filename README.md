@@ -16,8 +16,8 @@ Installation instructions and examples from the test automation with Robot Frame
     1. `pip install --upgrade robotframework-debuglibrary`
 
 ### Test the installation
-1. Clone or download this repo locally can navigate to the Swag Example folder.
-1. Run the following command: `robot --outputdir .\Output .\TestSuites`
+1. Clone or download this repo locally and navigate to the Swag Example folder.
+1. Open a terminal or CLI at this location and run the following command: `robot --outputdir .\Output .\TestSuites`
 1. The test run should be successful and the Output folder will contain the test reports
 
 ## Important Links
