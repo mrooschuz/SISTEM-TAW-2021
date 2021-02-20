@@ -10,7 +10,7 @@ Installation instructions and examples from the test automation with Robot Frame
 1. Create a folder called c:\WebDrivers
     1. Add this path to your PATH environment variable or create a new entry specifically for this
     1. Navigate to [Chrome WebDriver](https://chromedriver.chromium.org/) and download the latest webdriver to this location (extract the contents of the zip file to the root of this location)
-    1. Do the same for any other wed drivers for browsers you want to test with, such as Firefox or Edge
+    1. Do the same for any other web drivers for browsers you want to test with, such as Firefox or Edge
 1. Run the following pip install commands:
     1. `pip install --upgrade robotframework`
     1. `pip install --upgrade robotframework-seleniumlibrary`
@@ -24,3 +24,8 @@ Installation instructions and examples from the test automation with Robot Frame
 ## Important Links
 * https://robotframework.org/
 * https://robotframework.org/robotframework/
+* https://testautomationu.applitools.com/web-element-locator-strategies/
+* https://robotframework.org/SeleniumLibrary/SeleniumLibrary.html
+* https://github.com/fkromer/awesome-robotframework/blob/master/README.md
+* https://github.com/adrianyorke/robotframework-cookbook
+* https://ultimateqa.com/dummy-automation-websites/#9_Demoqa
