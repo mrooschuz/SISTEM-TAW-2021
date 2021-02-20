@@ -5,7 +5,8 @@ Installation instructions and examples from the test automation with Robot Frame
 1. Install [Python 3](https://www.python.org/downloads/)
 1. Add the explicit path to your python.exe file to your PATH environment variable [environment variables](https://stackoverflow.com/questions/44272416/how-to-add-a-folder-to-path-environment-variable-in-windows-10-with-screensho)
     1. Add another path that leads to Scripts folder in that same location
-    1. Note: any CLI windows that are open will not automatically detect these changes. Close and re-open any command prompts or terminals
+    ![Example](https://github.com/mrooschuz/SISTEM-TAW-2021/blob/main/EnvironmentVariables.png)
+    3. Note: any CLI windows that are open will not automatically detect these changes. Close and re-open any command prompts or terminals
 1. Create a folder called c:\WebDrivers
     1. Add this path to your PATH environment variable or create a new entry specifically for this
     1. Navigate to [Chrome WebDriver](https://chromedriver.chromium.org/) and download the latest webdriver to this location (extract the contents of the zip file to the root of this location)
