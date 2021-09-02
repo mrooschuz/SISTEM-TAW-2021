@@ -1,5 +1,5 @@
 # SISTEM-Test Automation Workshop-2021
-Installation instructions and examples from the test automation with Robot Framework presented at [SISTEM 2021](https://sistemconf.com/)
+Installation instructions and examples from the test automation with Robot Framework presented at [SISTEM 2021](https://sistemconf.com/). Watch the [video on Youtube](https://www.youtube.com/watch?v=3o9MF6uZS_g) to follow along with creating your first Robot Framework test.
 
 ## Installation
 1. Install [Python 3](https://www.python.org/downloads/)
